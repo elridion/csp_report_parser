@@ -1,6 +1,6 @@
 # CspReportParser
 
-Plug parser module to handle csp-report bodies.
+Plug parser module to handle csp-report bodies.  
 Documentation is available on [hex.pm](https://hexdocs.pm/csp_report_parser)
 
 ## Installation

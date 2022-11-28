@@ -18,9 +18,7 @@ defmodule CspReportParser.MixProject do
 
   # Run "mix help compile.app" to learn about applications.
   def application do
-    [
-      extra_applications: [:logger]
-    ]
+    []
   end
 
   # Run "mix help deps" to learn about dependencies.
@@ -37,7 +35,7 @@ defmodule CspReportParser.MixProject do
 
   defp docs do
     [
-      main: "CSP Report Parser",
+      main: "Plug.Parsers.CSP_REPORT",
       canonical: "http://hexdocs.pm/csp_report_parser",
       source_url: "https://github.com/elridion/csp_report_parser"
     ]
