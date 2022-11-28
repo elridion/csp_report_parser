@@ -45,7 +45,7 @@ defmodule CspReportParser.MixProject do
     [
       maintainers: ["Hans Bernhard Gödeke"],
       files: ~w(lib .formatter.exs mix.exs README* LICENSE),
-      licenses: ["GPL-3.0-only"],
+      licenses: ["Apache-2.0"],
       links: %{
         "GitHub" => "https://github.com/elridion/csp_report_parser"
       }
