@@ -24,3 +24,5 @@ csp_report_parser-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+.vscode
